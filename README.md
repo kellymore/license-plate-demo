@@ -1,1 +1,1 @@
-# license-plate-demo
+# us-license-plate-with-ocr-computer-vision
